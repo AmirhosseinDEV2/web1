@@ -1,0 +1,9 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    position: relative;
+    background-color: antiquewhite;
+    color: rgb(146, 146, 146);
+}
